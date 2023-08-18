@@ -4,12 +4,12 @@ This tool is designed to search for information related to the vulnerabilities o
 
 ## Features
 
-Google Search: Searches for articles related to cryptocurrency project vulnerabilities using Google CSE.
-Article Content Extraction: Extracts and processes the content of articles.
-OpenAI Interaction: Formulates questions and asks ChatGPT for vulnerability details.
-GitHub Code Search: Searches for specific code snippets within a GitHub organization.
-Repository Cloning: Clones specific repositories from GitHub.
-Git Log Search: Searches git logs for specific function introductions.
+- Google Search: Searches for articles related to cryptocurrency project vulnerabilities using Google CSE.
+- Article Content Extraction: Extracts and processes the content of articles.
+- OpenAI Interaction: Formulates questions and asks ChatGPT for vulnerability details.
+- GitHub Code Search: Searches for specific code snippets within a GitHub organization.
+- Repository Cloning: Clones specific repositories from GitHub.
+- Git Log Search: Searches git logs for specific function introductions.
 
 ## Setup
 ### Requirements
